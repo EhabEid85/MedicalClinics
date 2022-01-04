@@ -1,0 +1,15 @@
+D:\Freelancer jobs\MohamedRef3t\MedicalClinics\MedicalClinics.DAL\bin\Debug\net5.0\MedicalClinics.DAL.deps.json
+D:\Freelancer jobs\MohamedRef3t\MedicalClinics\MedicalClinics.DAL\bin\Debug\net5.0\MedicalClinics.DAL.runtimeconfig.json
+D:\Freelancer jobs\MohamedRef3t\MedicalClinics\MedicalClinics.DAL\bin\Debug\net5.0\MedicalClinics.DAL.runtimeconfig.dev.json
+D:\Freelancer jobs\MohamedRef3t\MedicalClinics\MedicalClinics.DAL\bin\Debug\net5.0\MedicalClinics.DAL.dll
+D:\Freelancer jobs\MohamedRef3t\MedicalClinics\MedicalClinics.DAL\bin\Debug\net5.0\ref\MedicalClinics.DAL.dll
+D:\Freelancer jobs\MohamedRef3t\MedicalClinics\MedicalClinics.DAL\bin\Debug\net5.0\MedicalClinics.DAL.pdb
+D:\Freelancer jobs\MohamedRef3t\MedicalClinics\MedicalClinics.DAL\obj\Debug\net5.0\MedicalClinics.DAL.csprojAssemblyReference.cache
+D:\Freelancer jobs\MohamedRef3t\MedicalClinics\MedicalClinics.DAL\obj\Debug\net5.0\MedicalClinics.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Freelancer jobs\MohamedRef3t\MedicalClinics\MedicalClinics.DAL\obj\Debug\net5.0\MedicalClinics.DAL.AssemblyInfoInputs.cache
+D:\Freelancer jobs\MohamedRef3t\MedicalClinics\MedicalClinics.DAL\obj\Debug\net5.0\MedicalClinics.DAL.AssemblyInfo.cs
+D:\Freelancer jobs\MohamedRef3t\MedicalClinics\MedicalClinics.DAL\obj\Debug\net5.0\MedicalClinics.DAL.csproj.CoreCompileInputs.cache
+D:\Freelancer jobs\MohamedRef3t\MedicalClinics\MedicalClinics.DAL\obj\Debug\net5.0\MedicalClinics.DAL.dll
+D:\Freelancer jobs\MohamedRef3t\MedicalClinics\MedicalClinics.DAL\obj\Debug\net5.0\ref\MedicalClinics.DAL.dll
+D:\Freelancer jobs\MohamedRef3t\MedicalClinics\MedicalClinics.DAL\obj\Debug\net5.0\MedicalClinics.DAL.pdb
+D:\Freelancer jobs\MohamedRef3t\MedicalClinics\MedicalClinics.DAL\obj\Debug\net5.0\MedicalClinics.DAL.genruntimeconfig.cache

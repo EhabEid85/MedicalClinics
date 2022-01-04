@@ -1,0 +1,15 @@
+D:\Freelancer jobs\MohamedRef3t\MedicalClinics\MedicalClinics.Repository\bin\Debug\net5.0\MedicalClinics.Repository.deps.json
+D:\Freelancer jobs\MohamedRef3t\MedicalClinics\MedicalClinics.Repository\bin\Debug\net5.0\MedicalClinics.Repository.dll
+D:\Freelancer jobs\MohamedRef3t\MedicalClinics\MedicalClinics.Repository\bin\Debug\net5.0\ref\MedicalClinics.Repository.dll
+D:\Freelancer jobs\MohamedRef3t\MedicalClinics\MedicalClinics.Repository\bin\Debug\net5.0\MedicalClinics.Repository.pdb
+D:\Freelancer jobs\MohamedRef3t\MedicalClinics\MedicalClinics.Repository\bin\Debug\net5.0\MedicalClinics.DAL.dll
+D:\Freelancer jobs\MohamedRef3t\MedicalClinics\MedicalClinics.Repository\bin\Debug\net5.0\MedicalClinics.DAL.pdb
+D:\Freelancer jobs\MohamedRef3t\MedicalClinics\MedicalClinics.Repository\obj\Debug\net5.0\MedicalClinics.Repository.csprojAssemblyReference.cache
+D:\Freelancer jobs\MohamedRef3t\MedicalClinics\MedicalClinics.Repository\obj\Debug\net5.0\MedicalClinics.Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\Freelancer jobs\MohamedRef3t\MedicalClinics\MedicalClinics.Repository\obj\Debug\net5.0\MedicalClinics.Repository.AssemblyInfoInputs.cache
+D:\Freelancer jobs\MohamedRef3t\MedicalClinics\MedicalClinics.Repository\obj\Debug\net5.0\MedicalClinics.Repository.AssemblyInfo.cs
+D:\Freelancer jobs\MohamedRef3t\MedicalClinics\MedicalClinics.Repository\obj\Debug\net5.0\MedicalClinics.Repository.csproj.CoreCompileInputs.cache
+D:\Freelancer jobs\MohamedRef3t\MedicalClinics\MedicalClinics.Repository\obj\Debug\net5.0\MedicalClinics.Repository.csproj.CopyComplete
+D:\Freelancer jobs\MohamedRef3t\MedicalClinics\MedicalClinics.Repository\obj\Debug\net5.0\MedicalClinics.Repository.dll
+D:\Freelancer jobs\MohamedRef3t\MedicalClinics\MedicalClinics.Repository\obj\Debug\net5.0\ref\MedicalClinics.Repository.dll
+D:\Freelancer jobs\MohamedRef3t\MedicalClinics\MedicalClinics.Repository\obj\Debug\net5.0\MedicalClinics.Repository.pdb

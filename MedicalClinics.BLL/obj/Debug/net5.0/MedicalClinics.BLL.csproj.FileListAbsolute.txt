@@ -1,0 +1,17 @@
+D:\Freelancer jobs\MohamedRef3t\MedicalClinics\MedicalClinics.BLL\bin\Debug\net5.0\MedicalClinics.BLL.deps.json
+D:\Freelancer jobs\MohamedRef3t\MedicalClinics\MedicalClinics.BLL\bin\Debug\net5.0\MedicalClinics.BLL.dll
+D:\Freelancer jobs\MohamedRef3t\MedicalClinics\MedicalClinics.BLL\bin\Debug\net5.0\ref\MedicalClinics.BLL.dll
+D:\Freelancer jobs\MohamedRef3t\MedicalClinics\MedicalClinics.BLL\bin\Debug\net5.0\MedicalClinics.BLL.pdb
+D:\Freelancer jobs\MohamedRef3t\MedicalClinics\MedicalClinics.BLL\bin\Debug\net5.0\MedicalClinics.DAL.dll
+D:\Freelancer jobs\MohamedRef3t\MedicalClinics\MedicalClinics.BLL\bin\Debug\net5.0\MedicalClinics.Repository.dll
+D:\Freelancer jobs\MohamedRef3t\MedicalClinics\MedicalClinics.BLL\bin\Debug\net5.0\MedicalClinics.Repository.pdb
+D:\Freelancer jobs\MohamedRef3t\MedicalClinics\MedicalClinics.BLL\bin\Debug\net5.0\MedicalClinics.DAL.pdb
+D:\Freelancer jobs\MohamedRef3t\MedicalClinics\MedicalClinics.BLL\obj\Debug\net5.0\MedicalClinics.BLL.csprojAssemblyReference.cache
+D:\Freelancer jobs\MohamedRef3t\MedicalClinics\MedicalClinics.BLL\obj\Debug\net5.0\MedicalClinics.BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Freelancer jobs\MohamedRef3t\MedicalClinics\MedicalClinics.BLL\obj\Debug\net5.0\MedicalClinics.BLL.AssemblyInfoInputs.cache
+D:\Freelancer jobs\MohamedRef3t\MedicalClinics\MedicalClinics.BLL\obj\Debug\net5.0\MedicalClinics.BLL.AssemblyInfo.cs
+D:\Freelancer jobs\MohamedRef3t\MedicalClinics\MedicalClinics.BLL\obj\Debug\net5.0\MedicalClinics.BLL.csproj.CoreCompileInputs.cache
+D:\Freelancer jobs\MohamedRef3t\MedicalClinics\MedicalClinics.BLL\obj\Debug\net5.0\MedicalClinics.BLL.csproj.CopyComplete
+D:\Freelancer jobs\MohamedRef3t\MedicalClinics\MedicalClinics.BLL\obj\Debug\net5.0\MedicalClinics.BLL.dll
+D:\Freelancer jobs\MohamedRef3t\MedicalClinics\MedicalClinics.BLL\obj\Debug\net5.0\ref\MedicalClinics.BLL.dll
+D:\Freelancer jobs\MohamedRef3t\MedicalClinics\MedicalClinics.BLL\obj\Debug\net5.0\MedicalClinics.BLL.pdb
